@@ -1,4 +1,5 @@
-# Event_Management_System
+# Event_Management_System 
+### IN Postgres, MySQL, Oracle
 
 ## Concept:
     Consider I have 10 halls or places with different capacities that I can give rental to some Organisations to conduct their events like conferences, workshops and so on. 
